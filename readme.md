@@ -1,0 +1,1 @@
+This is a simple Publication Finder form as a React component. The snippet can be dropped anywhere on the [Alvin Sherman Library](http://sherman.library.nova.edu) web presence where the Require config lives.
